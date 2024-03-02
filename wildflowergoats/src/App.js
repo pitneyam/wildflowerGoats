@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import entrance from './farm_entrance.jpg';
 
 function App() {
   return (
@@ -10,19 +11,11 @@ function App() {
         <a className="inactive" href="">About</a>
       </div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src={entrance} className="header_pic" alt="farm_entrance" />
       </header>
+      <body>
+        <p>Body</p>
+      </body>
       <div className="footer">
         <p>Footer</p>
       </div>
