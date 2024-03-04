@@ -1,4 +1,4 @@
-
+import style from './Nav.css';
 
 function Nav(){
     return(

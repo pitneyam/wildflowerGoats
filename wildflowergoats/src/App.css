@@ -58,15 +58,6 @@
   background-color: #282c34;
 }
 
-.footer{
-  background-color: #f8f7f7;
-  color: #000000;
-  text-align: center;
-  padding: 1.5%;
-  font-size: large;
-  font-weight: 100;
-  text-decoration: none;
-}
 
 @keyframes App-logo-spin {
   from {
