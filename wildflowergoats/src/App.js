@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import entrance from './farm_entrance.jpg';
+import entrance from './images/farm_entrance.jpg';
 
 function App() {
   return (
@@ -14,7 +14,9 @@ function App() {
         <img src={entrance} className="header_pic" alt="farm_entrance" />
       </header>
       <body>
-        <p>Body</p>
+        <div className="goat_carousel" data-ride="carousel">
+
+        </div>
       </body>
       <div className="footer">
         <p>Footer</p>
