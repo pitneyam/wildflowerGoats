@@ -9,7 +9,7 @@ function Footer(){
                 <a href="tel:419-234-0756">(419)234-0756</a>
                 <br></br>
                 <a>Email: </a>
-                <a href="mailto:"></a>
+                <a href="mailto:reindellouis@gmail.com">reindellouis@gmail.com</a>
                 <br></br>
                 <a>Follow us on Instagram: </a>
                 <a href='https://www.instagram.com/wildflower_family_farm/'> @wildflower_family_farm</a>
