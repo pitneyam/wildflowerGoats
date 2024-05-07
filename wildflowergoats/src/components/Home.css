@@ -1,0 +1,11 @@
+.goatpics{
+    height: 10%;
+    width: 10%;
+}
+
+.goatcard{
+    border-style: double;
+    border-width: 10px;
+    border-color: darkolivegreen;
+    border-radius: 25px;
+}
