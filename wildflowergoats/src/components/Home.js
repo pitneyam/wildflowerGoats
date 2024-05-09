@@ -14,6 +14,10 @@ function Home(){
             <header className="App-header">
                 <img src={entrance} className="header_pic" alt="farm_entrance" />
             </header>
+            <div>
+                <h1>Welcome to Wildflower Goats!</h1>
+                
+            </div>
             <div className="goatcard">
                 <img className="goatpics" src={dd} alt="Goat named DD"/>
             </div>

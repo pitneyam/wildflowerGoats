@@ -6,6 +6,9 @@ import Mocha from '../images/Mocha.JPG';
 import Oreo from '../images/Oreo.JPG';
 import Snickers from '../images/Snickers.JPG';
 import herd from '../images/Herd.JPG';
+import SnickNMoch from '../images/MochaNSnickers.jpg';
+import ButtBabies from '../images/Buttercupsbabies.jpg';
+import BBnDD from '../images/BBnDD.jpg';
 import style from './Home.css';
 import bootstrap from 'bootstrap/dist/css/bootstrap.css';
 
@@ -87,6 +90,13 @@ function Animals() {
                         <p> More Info: Had 2 kids on 4/20/24</p>
                     </div>
                 </div>
+            </div>
+            <h1>Meet the Kids!</h1>
+            <div className='row'>
+                <img src={SnickNMoch}  alt="Picture of Snicikers and Mocha with their babies" />
+                <img src={ButtBabies}  alt="Picture of Buttercups babies" />
+                <img src={BBnDD}  alt="Picture of BB and DD's kids" />
+
             </div>
         </div>  
         </div>         
