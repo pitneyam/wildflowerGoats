@@ -1,6 +1,6 @@
 .goatpics{
-    height: 10%;
-    width: 10%;
+    height: 25%;
+    width: 25%;
 }
 
 .goatcard{
@@ -8,4 +8,9 @@
     border-width: 10px;
     border-color: darkolivegreen;
     border-radius: 25px;
+}
+
+.herd{
+    height: 75%;
+    width: 100%;
 }
