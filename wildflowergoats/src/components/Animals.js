@@ -44,7 +44,7 @@ function Animals() {
                 <div className='col'>
                     <div className="goatcard">
                         <img className="goatpics" src={bucky} alt="Goat named Bucky"/>
-                        <p>Name: Bucky</p>
+                        <p>Name: Hua Koati</p>
                         <p>Birthday: 2/20/22</p>
                         <p>Origin: Swampy Acres</p>
                         <p>More info: Registration Number N22M0285HSR9 </p>
@@ -93,9 +93,15 @@ function Animals() {
             </div>
             <h1>Meet the Kids!</h1>
             <div className='row'>
-                <img src={SnickNMoch}  alt="Picture of Snicikers and Mocha with their babies" />
-                <img src={ButtBabies}  alt="Picture of Buttercups babies" />
-                <img src={BBnDD}  alt="Picture of BB and DD's kids" />
+                <div className='col'>
+                    <img src={SnickNMoch} className='babypics' alt="Picture of Snicikers and Mocha with their babies" />
+                </div>
+                <div className ='col'>
+                    <img src={ButtBabies}  className='babypics' alt="Picture of Buttercups babies" />
+                </div>
+                <div className='col'>
+                    <img src={BBnDD}  className='babypics' alt="Picture of BB and DD's kids" />
+                </div>
 
             </div>
         </div>  
